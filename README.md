@@ -5,4 +5,4 @@
 CSS project, making a form look like a postcard
 https://lemurriot.github.io/postcardform/
 
-###By **Kevin Boyle** and **Sailor Winkelman**
+### By **Kevin Boyle** and **Sailor Winkelman**
